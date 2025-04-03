@@ -9,6 +9,8 @@ main {
   flex-basis: 90vw;
   align-items: center;
   padding: 2rem;
+  background-color: rgb(172, 124, 239);
+color: rgb(32, 2, 42);
 }
 section {
   margin-top: 2rem;
@@ -17,13 +19,13 @@ section {
 }
 section span {
   min-width: 50px;
-  text-decoration: underline;
+  text-decoration:underline;
 }
 hr {
   height: 2px;
-  color: black;
+  color: rgb(27, 6, 63);
   width: 100%;
 }
 button {
-  cursor: pointer;
+  cursor: pointer
 }
